@@ -1,5 +1,5 @@
 ---
-title: "LiveScan3D: A Fast and Inexpensive 3D Data Acquisition System for Multiple Kinect v2 Sensors. Conference"
+title: "LiveScan3D: A Fast and Inexpensive 3D Data Acquisition System for Multiple Kinect v2 Sensors."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -28,7 +28,7 @@ publication_types: ["1"]
 publication: International Conference on 3D Vision
 publication_short: International Conference on 3D Vision
 
-abstract: "LiveScan3D is a free, open source system for live, 3D data acquisition using multiple Kinect v2 sensors. It allows the user to place any number of sensors in any physical configuration and start gathering data at real time speed. The freedom of placing the sensors in any configuration allows for many possible acquisition scenarios such as: capturing a single object from many viewpoints or creating 3D panoramas with multiple devices located close to each other. Thanks to the off-the-shelf Kinect v2 sensor the system is both accurate and inexpensive, opening 3D acquisition up to more recipients. In the paper we describe our system with the algorithms it is using and show its effectiveness in multiple scenarios including head shape reconstruction and 3D reconstruction of dynamic scenes.."
+abstract: "LiveScan3D is a free, open source system for live, 3D data acquisition using multiple Kinect v2 sensors. It allows the user to place any number of sensors in any physical configuration and start gathering data at real time speed. The freedom of placing the sensors in any configuration allows for many possible acquisition scenarios such as: capturing a single object from many viewpoints or creating 3D panoramas with multiple devices located close to each other. Thanks to the off-the-shelf Kinect v2 sensor the system is both accurate and inexpensive, opening 3D acquisition up to more recipients. In the paper we describe our system with the algorithms it is using and show its effectiveness in multiple scenarios including head shape reconstruction and 3D reconstruction of dynamic scenes."
 # Summary. An optional shortened abstract.
 summary: "LiveScan3D is a free, open source system for live, 3D data acquisition using multiple Kinect v2 sensors. It allows the user to place any number of sensors in any physical configuration and start gathering data at real time speed. The freedom of placing the sensors in any configuration allows for many possible acquisition scenarios such as: capturing a single object from many viewpoints or creating 3D panoramas with multiple devices located close to each other. Thanks to the off-the-shelf Kinect v2 sensor the system is both accurate and inexpensive, opening 3D acquisition up to more recipients. In the paper we describe our system with the algorithms it is using and show its effectiveness in multiple scenarios including head shape reconstruction and 3D reconstruction of dynamic scenes."
 
