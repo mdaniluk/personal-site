@@ -12,7 +12,7 @@ event_url: https://ml.dssconf.pl/
 #   postcode: '94305'
 #   country: United States
 
-summary: "Synerise at Booking.Com Data Challenge 2021: Modeling Multi-Destination Trips with Sketch-Based Model."
+summary: "Winning solution to Booking.com Data Challenge competition."
 abstract: "Our recently proposed EMDE (Efficient Manifold Density Estimator) model achieves state of-the-art results in session-based recommendation. In this work we explore its application to Booking.com Data Challenge competition. The aim of the challenge is to make the best recommendation for the next destination of a user trip, based on dataset with millions of real anonymized accommodation reservations. We achieve 2nd place in this competition - just after NVIDIA team and beating Amazon & Baidu teams, among many others. First, we use Cleora - our graph embedding method - to represent cities as a directed graph and learn their vector representation. Next, we apply EMDE to predict the next user destination based on previously visited cities and some features associated with each trip."
 
 # Talk start and end times.

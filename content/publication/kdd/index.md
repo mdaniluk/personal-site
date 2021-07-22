@@ -26,8 +26,8 @@ publishDate: "2021-06-12T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM WSDM Workshop on Web Tourism
-publication_short: ACM WSDM Workshop on Web Tourism
+publication: KDD Cup 2021 - OGB Large-Scale Challenge
+publication_short: KDD Cup 2021 - OGB Large-Scale Challenge
 
 abstract: "We describe our winning solution to the KDD Cup 2021 Open Benchmark Challenge. We tackle the task of academic paper classification within a heterogeneous graph containing paper, author and institution nodes. We present an efficient model based on our previously introduced algorithms: EMDE and Cleora, on top of a simplistic feed-forward neural network. Our solution can be trained
 on a single commodity 16 GB GPU, taking around 40 minutes per model."
